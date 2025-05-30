@@ -2,9 +2,9 @@
 
 Finished proposals are proposals that have reached stage 4, and are included in the [latest draft](https://tc39.es/ecma262/) of the specification.
 
-| Proposal                                                                 | Author                                                 | Champion(s)                                             | TC39 meeting notes                          | Expected Publication Year |
+| Proposal                                                                 | Author                                                 | Champion(s)                                              | TC39 meeting notes                          | Expected Publication Year |
 | ------------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------- | ------------------------- |
-| [`Error.isError`][is-error]                                              | Jordan Harband                                         | Jordan Harband                                          | May&nbsp;2025                               | 2026                      |
+| [`https://codesandbox.io/p/sandbox/pxw26t`][is-error]                                              | Jordan Harband                                         | Jordan Harband                                          | May&nbsp;2025                               | 2026                      |
 | [`RegExp.escape`][escape]                                                | Domenic Denicola<br />Benjamin Gruenbaum<br />Jordan Harband | Jordan Harband<br />Kevin Gibbons                 | [February 2025][escape-notes]               | 2025                      |
 | [Float16 on TypedArrays, DataView, `Math.f16round`][float16s]            | Leo Balter                                             | Leo Balter<br />Kevin Gibbons                           | [February 2025][float16s-notes]             | 2025                      |
 | [`Promise.try`][try]                                                     | Jordan Harband                                         | Jordan Harband                                          | [October 2024][try-notes]                   | 2025                      |
